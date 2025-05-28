@@ -1,0 +1,42 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Inicio: s bado, 17 de mayo de 202506:27:37 p. m.
+2025/05/17 18:27:38 ERROR 1326 (0x0000052E) Obteniendo tipo de sistema de archivos del destino \\172.29.5.37\ZT_Share\Retos de programaci¢n en python.pdf\
+El nombre de usuario o la contrase¤a no son correctos.
+
+   Origen : C:\Users\Luis Galfridan\OneDrive\Escritorio\Cosas X\ense¤anza\
+     Destino = \\172.29.5.37\ZT_Share\Retos de programaci¢n en python.pdf\
+
+    Archivos: Retos de programaci¢n en python.pdf
+	    
+  Opciones: /DCOPY:DA /COPY:DAT /NP /R:2 /W:5 
+
+------------------------------------------------------------------------------
+
+2025/05/17 18:27:40 ERROR 1326 (0x0000052E) Obteniendo acceso al directorio de destino \\172.29.5.37\ZT_Share\Retos de programaci¢n en python.pdf\
+El nombre de usuario o la contrase¤a no son correctos.
+Esperando 5 segundos... Reintentando...
+2025/05/17 18:27:47 ERROR 1326 (0x0000052E) Obteniendo acceso al directorio de destino \\172.29.5.37\ZT_Share\Retos de programaci¢n en python.pdf\
+El nombre de usuario o la contrase¤a no son correctos.
+Esperando 5 segundos... Reintentando...
+2025/05/17 18:27:54 ERROR 1326 (0x0000052E) Obteniendo acceso al directorio de destino \\172.29.5.37\ZT_Share\Retos de programaci¢n en python.pdf\
+El nombre de usuario o la contrase¤a no son correctos.
+
+ERROR: SE SUPERà EL LÖMITE DE REINTENTOS.
+
+2025/05/17 18:27:55 ERROR 1326 (0x0000052E) Creando directorio de destino \\172.29.5.37\ZT_Share\Retos de programaci¢n en python.pdf\
+El nombre de usuario o la contrase¤a no son correctos.
+Esperando 5 segundos... Reintentando...
+2025/05/17 18:28:01 ERROR 1326 (0x0000052E) Creando directorio de destino \\172.29.5.37\ZT_Share\Retos de programaci¢n en python.pdf\
+El nombre de usuario o la contrase¤a no son correctos.
+Esperando 5 segundos... Reintentando...
+2025/05/17 18:28:07 ERROR 1326 (0x0000052E) Creando directorio de destino \\172.29.5.37\ZT_Share\Retos de programaci¢n en python.pdf\
+El nombre de usuario o la contrase¤a no son correctos.
+
+ERROR: SE SUPERà EL LÖMITE DE REINTENTOS.
+
+2025/05/17 18:28:07 ERROR 1326 (0x0000052E) Creando directorio de destino \\172.29.5.37\ZT_Share\Retos de programaci¢n en python.pdf\
+El nombre de usuario o la contrase¤a no son correctos.
